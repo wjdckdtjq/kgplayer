@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="application.MemberDTO" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MemberDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="136" x="5118" y="4709"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="application.MusicList" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MusicList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="137" x="4313" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="application.KgPlayerWriteBbs" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/KgPlayerWriteBbs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="153" x="5785" y="2515"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="application.MyPage" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MyPage.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="567" width="153" x="4594" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="application.PieElement" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/PieElement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="127" x="4043" y="1301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="application.MusicJoin" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MusicJoin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="131" x="4037" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="application.KgPlayerListBbs" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/KgPlayerListBbs.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="251" x="5538" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="application.SongChart" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/SongChart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="198" x="3799" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="application.KgPlayerBbsDAO" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/KgPlayerBbsDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="218" x="5699" y="4336"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="application.Player" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="765" width="467" x="4086" y="3531"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="application.Pay" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/Pay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="123" x="5000" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="application.MemberMain" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MemberMain.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="855" width="194" x="4252" y="1620"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="application.Main" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="194" x="4829" y="2515"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="application.MemberFind" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MemberFind.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="131" x="5213" y="3531"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="application.Login" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/Login.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="149" x="5225" y="1301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="application.MemberList" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MemberList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="131" x="5042" y="3531"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="application.MemberJoin" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MemberJoin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="149" x="5405" y="3531"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="application.MyPage2" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MyPage2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="131" x="4808" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="application.KgplayerTab" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/KgplayerTab.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="207" width="124" x="4025" y="2515"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="application.AutoPlay" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/AutoPlay.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="96" x="4649" y="1301"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="application.KgPlayerBbsDTO" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/KgPlayerBbsDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="137" x="5659" y="4709"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="application.MusicDTO" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MusicDTO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="152" x="3759" y="4336"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="application.MemberSong" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MemberSong.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="131" x="4593" y="3531"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="application.Music" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/Music.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="113" x="3625" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="application.MemberDAO" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MemberDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="268" x="4766" y="4336"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="application.MusicDAO" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MusicDAO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="184" x="3820" y="3531"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="application.MemberSongList" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/MemberSongList.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="143" x="4086" y="4709"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="application.BbsUpdateAndDelete" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/BbsUpdateAndDelete.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="153" x="5636" y="3531"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="application.Robot" project="MusicPlayer" 
+    file="/MusicPlayer/src/application/Robot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="149" x="5349" y="2924"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="kgplayer.audio.BackgroundExecutor" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/BackgroundExecutor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="366" x="2749" y="2020"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="kgplayer.audio.Timer" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/Timer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="297" width="128" x="2478" y="2321"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="kgplayer.audio.WaveformParallelFrame.WaveformPanel.WaveformTask" 
+    project="MusicPlayer" file="/MusicPlayer/src/kgplayer/audio/WaveformParallelFrame.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="207" width="173" x="2709" y="2321"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="kgplayer.audio.WaveformParallelFrame" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/WaveformParallelFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="333" width="443" x="2499" y="1647"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="kgplayer.audio.SeekBar" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/SeekBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="175" x="3277" y="1647"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="kgplayer.audio.AudioPlayer" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/AudioPlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="675" width="278" x="3171" y="2321"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="kgplayer.audio.SeekBar.UpdatingTask" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/SeekBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="142" x="3317" y="2020"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="kgplayer.audio.Utils" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/Utils.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="171" x="2709" y="3046"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="kgplayer.audio.Complex" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/Complex.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="183" x="2709" y="3239"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="kgplayer.audio.WaveformParallelFrame.WaveformPanel" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/WaveformParallelFrame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="189" x="2499" y="2020"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="kgplayer.audio.SeekBar.SeekTask" project="MusicPlayer" 
+    file="/MusicPlayer/src/kgplayer/audio/SeekBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="101" x="3155" y="2020"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <dependency id="41">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <association id="42">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="43" name="dao"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <bendpoint x="5861" y="2924"/>    
+    <bendpoint x="5861" y="3531"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="46" name="dao"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="49">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <association id="50">    
+    <bendpoint x="5819" y="2924"/>    
+    <bendpoint x="5819" y="3531"/>    
+    <bendpoint x="5647" y="4336"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="51" name="memDTO"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <bendpoint x="5947" y="2924"/>    
+    <bendpoint x="5947" y="3531"/>    
+    <bendpoint x="5968" y="4336"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="54" name="dto"/>      
+      <multiplicity id="55" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="56">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <association id="57">    
+    <bendpoint x="3711" y="3531"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="58" name="dto"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="61" name="my2"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="63">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="64">    
+    <bendpoint x="5395" y="4336"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="65">    
+    <bendpoint x="3789" y="3531"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="66">    
+    <bendpoint x="5255" y="2515"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="67">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <association id="68">    
+    <bendpoint x="5213" y="2515"/>    
+    <bendpoint x="5297" y="2924"/>    
+    <bendpoint x="5374" y="3531"/>    
+    <bendpoint x="5374" y="4336"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="69" name="dto"/>      
+      <multiplicity id="70" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <dependency id="72">    
+    <bendpoint x="5276" y="1620"/>    
+    <bendpoint x="5276" y="2515"/>    
+    <bendpoint x="5276" y="2924"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="14"/>  
+  </dependency>  
+  <dependency id="73">    
+    <bendpoint x="4055" y="3531"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="74">    
+    <bendpoint x="5840" y="3531"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="75" name="dao"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <bendpoint x="4817" y="3531"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="78" name="dao"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <bendpoint x="5668" y="4336"/>    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="81" name="dto"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <association id="84">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="85" name="dao"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="88" name="dao"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="90">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="91">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="92" name="mem"/>      
+      <multiplicity id="93" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="94">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="39"/>  
+  </nesting>  
+  <association id="95">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="96" name="instance"/>      
+      <multiplicity id="97" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="98">    
+    <bendpoint x="5605" y="4336"/>    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="99" name="memDTO"/>      
+      <multiplicity id="100" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="101">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="102" name="wff"/>      
+      <multiplicity id="103" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="104">    
+    <bendpoint x="4219" y="2515"/>    
+    <bendpoint x="4219" y="2924"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="105" name="mucisDAO"/>      
+      <multiplicity id="106" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="107">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="26"/>  
+  </dependency>  
+  <nesting id="108">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <association id="109">    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="110" name="wfp"/>      
+      <multiplicity id="111" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="112">    
+    <bendpoint x="4198" y="2515"/>    
+    <bendpoint x="4198" y="2924"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="113" name="dao"/>      
+      <multiplicity id="114" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="115">    
+    <end type="SOURCE" refId="34"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <dependency id="116">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="117">    
+    <bendpoint x="5234" y="1620"/>    
+    <bendpoint x="5234" y="2515"/>    
+    <bendpoint x="5234" y="2924"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="16"/>  
+  </dependency>  
+  <association id="118">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="119" name="r"/>      
+      <multiplicity id="120" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="121">    
+    <bendpoint x="3286" y="2020"/>    
+    <end type="SOURCE" refId="34" navigable="false">      
+      <attribute id="122" name="p"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="124">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="125">    
+    <bendpoint x="5053" y="2515"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="126" name="pay"/>      
+      <multiplicity id="127" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="128">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="129" name="dao"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="131">    
+    <bendpoint x="4095" y="4336"/>    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <association id="132">    
+    <bendpoint x="4948" y="3531"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="133" name="dao"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="136" name="seekbar"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="138">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <dependency id="139">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="28"/>  
+  </dependency>  
+  <association id="140">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="141" name="player"/>      
+      <multiplicity id="142" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="143">    
+    <bendpoint x="2468" y="2020"/>    
+    <end type="SOURCE" refId="33" navigable="false">      
+      <attribute id="144" name="timer"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="146">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <association id="147">    
+    <bendpoint x="4927" y="3531"/>    
+    <bendpoint x="5064" y="4336"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="148" name="dto"/>      
+      <multiplicity id="149" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="150">    
+    <bendpoint x="4261" y="2515"/>    
+    <bendpoint x="4261" y="2924"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </dependency>  
+  <dependency id="151">    
+    <bendpoint x="4432" y="2515"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="152">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="37"/>  
+  </dependency>  
+  <association id="153">    
+    <bendpoint x="4798" y="2515"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="154" name="my2"/>      
+      <multiplicity id="155" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="18" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <bendpoint x="3768" y="2515"/>    
+    <bendpoint x="3768" y="2924"/>    
+    <bendpoint x="3768" y="3531"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="157" name="list"/>      
+      <multiplicity id="158" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="159">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="160">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="38"/>  
+  </dependency>  
+  <dependency id="161">    
+    <bendpoint x="5968" y="1620"/>    
+    <bendpoint x="5968" y="2515"/>    
+    <bendpoint x="5968" y="2924"/>    
+    <bendpoint x="5968" y="3531"/>    
+    <bendpoint x="5947" y="4336"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="162">    
+    <bendpoint x="4777" y="2515"/>    
+    <bendpoint x="4777" y="2924"/>    
+    <bendpoint x="4796" y="3531"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <association id="163">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="164" name="dao"/>      
+      <multiplicity id="165" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="166">    
+    <bendpoint x="4754" y="3531"/>    
+    <bendpoint x="4735" y="4336"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="167" name="dto"/>      
+      <multiplicity id="168" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="169">    
+    <bendpoint x="4240" y="2515"/>    
+    <bendpoint x="4240" y="2924"/>    
+    <bendpoint x="4034" y="3531"/>    
+    <bendpoint x="4034" y="4336"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="170">    
+    <bendpoint x="4714" y="4336"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <association id="171">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="172" name="Tabsetting"/>      
+      <multiplicity id="173" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="174">    
+    <bendpoint x="4969" y="2924"/>    
+    <bendpoint x="4969" y="3531"/>    
+    <bendpoint x="5085" y="4336"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="175">    
+    <bendpoint x="5127" y="4336"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="176">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="177">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="178" name="pay"/>      
+      <multiplicity id="179" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="180">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="181" name="dao"/>      
+      <multiplicity id="182" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="183">    
+    <bendpoint x="5153" y="1620"/>    
+    <bendpoint x="5153" y="2515"/>    
+    <bendpoint x="5153" y="2924"/>    
+    <bendpoint x="4990" y="3531"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="184" name="dao"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="186">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="32"/>  
+  </nesting>  
+  <association id="187">    
+    <bendpoint x="4775" y="3531"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="188" name="dao"/>      
+      <multiplicity id="189" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="190">    
+    <bendpoint x="4348" y="4336"/>    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="27"/>  
+  </dependency>  
+  <dependency id="191">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="25"/>  
+  </dependency>  
+  <dependency id="192">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <dependency id="193">    
+    <end type="SOURCE" refId="39"/>    
+    <end type="TARGET" refId="31"/>  
+  </dependency>  
+  <association id="194">    
+    <bendpoint x="3594" y="2515"/>    
+    <bendpoint x="3594" y="2924"/>    
+    <bendpoint x="3594" y="3531"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="195" name="musicDTO"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="197">    
+    <bendpoint x="5605" y="3531"/>    
+    <bendpoint x="5626" y="4336"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="198" name="list"/>      
+      <multiplicity id="199" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="200">    
+    <bendpoint x="4611" y="4336"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="201" name="dto"/>      
+      <multiplicity id="202" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="203">    
+    <bendpoint x="5036" y="1620"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="204">    
+    <bendpoint x="3747" y="2515"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="24"/>  
+  </dependency>  
+  <dependency id="205">    
+    <bendpoint x="5174" y="4336"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <dependency id="206">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="15"/>  
+  </dependency>  
+  <dependency id="207">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="35"/>  
+  </dependency>  
+  <association id="208">    
+    <bendpoint x="3690" y="3531"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="209" name="list"/>      
+      <multiplicity id="210" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="211">    
+    <bendpoint x="2718" y="2020"/>    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="33"/>  
+  </dependency>  
+  <association id="212">    
+    <bendpoint x="5011" y="3531"/>    
+    <bendpoint x="5106" y="4336"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="213" name="dto"/>      
+      <multiplicity id="214" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="215">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="21"/>  
+  </dependency>  
+  <association id="216">    
+    <bendpoint x="4282" y="2924"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="217" name="dao"/>      
+      <multiplicity id="218" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="219">    
+    <bendpoint x="5318" y="1620"/>    
+    <bendpoint x="5318" y="2515"/>    
+    <bendpoint x="5318" y="2924"/>    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="17"/>  
+  </dependency>  
+  <association id="220">    
+    <bendpoint x="5584" y="3531"/>    
+    <bendpoint x="5584" y="4336"/>    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="221" name="dto"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
